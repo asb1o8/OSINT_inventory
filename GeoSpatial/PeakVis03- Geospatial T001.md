@@ -5,4 +5,4 @@
 - Overlay terrain models on photos (PhotoFit) to verify claimed locations.
 - Compare horizon lines and elevation profiles to assess geolocation credibility.
 
-  Access here= https://peakvisor.com/
+  ### Access here= https://peakvisor.com/
