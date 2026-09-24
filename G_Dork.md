@@ -1,15 +1,5 @@
-# Google Dorks for SQL Injection
-
-> **Author:** CipherPhantom  
-> ⚠️ **Disclaimer:** For educational and authorized security testing purposes only.
-
----
-
 ### Dork Patterns
 
-# Classified Google Dorks for SQL Injection
-
-> **Author:** CipherPhantom  
 > ⚠️ **Disclaimer:** For educational and authorized security assessments only.
 
 ---
